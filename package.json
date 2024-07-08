@@ -1,0 +1,23 @@
+{
+  "name": "common-fucs",
+  "version": "1.0.0",
+  "description": "common use tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0-03/hzy-tools.git"
+  },
+  "keywords": [
+    "tools",
+    "javascript"
+  ],
+  "author": "hezhaoyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0-03/hzy-tools/issues"
+  },
+  "homepage": "https://github.com/0-03/hzy-tools#readme"
+}
